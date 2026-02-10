@@ -2,6 +2,8 @@
 
 > A curated list of AI-powered coding tools, libraries, and resources for developers
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 This collection focuses on AI tools that enhance the software development workflow - from code completion and generation to testing, review, and deployment.
 
 ## Contents
