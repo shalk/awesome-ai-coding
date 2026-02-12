@@ -34,20 +34,17 @@
 - [Cursor](https://cursor.sh/) - 基于 VSCode 构建的 AI 优先代码编辑器，具有原生聊天和编辑功能。
 - [Windsurf](https://codeium.com/windsurf) - Codeium 推出的智能体 IDE，支持多文件编辑工作流。
 - [Claude Code](https://claude.ai/code) - Anthropic 官方 CLI 工具，由 Claude 驱动，用于自主编码任务。
-- [Cody](https://sourcegraph.com/cody) - Sourcegraph 推出的 AI 编码助手，具有代码库上下文感知能力。
-- [Aider](https://aider.chat/) - 在终端中进行 AI 结对编程，支持 GPT-4、Claude 和本地模型。
+- [Sourcegraph Amp](https://sourcegraph.com/amp) - Sourcegraph 推出的 AI 编码助手，具有代码库上下文感知能力。
 - [Continue](https://continue.dev/) - VS Code 和 JetBrains 的开源自动驾驶工具，支持可自定义的 LLM。
-- [Amazon Q Developer](https://aws.amazon.com/q/developer/) - 用于软件开发的 AI 助手，集成 AWS 服务。
 - [Pieces for Developers](https://pieces.app/) - AI 驱动的代码片段管理器，具有上下文感知建议。
+- [OpenAI Codex](https://openai.com/index/openai-codex/) - 驱动 GitHub Copilot，将自然语言转换为代码。
 
 ## 代码补全工具
 
 实时 AI 驱动的代码补全和建议引擎。
 
-- [GitHub Copilot](https://github.com/features/copilot) - 由 OpenAI Codex 驱动的云端代码补全。
 - [Codeium](https://codeium.com/) - 免费的 AI 代码补全，支持 70+ 种编程语言。
 - [Tabnine](https://www.tabnine.com/) - 基于开源代码训练的 AI 代码补全，提供本地和云端选项。
-- [Continue](https://continue.dev/) - 开源代码补全工具，支持多种 LLM。
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot) - 自托管的 GitHub Copilot 替代方案。
 - [TabbyML](https://tabby.tabbyml.com/) - 自托管的 AI 编码助手，支持 RAG。
 - [Safurai](https://www.safurai.com/) - Visual Studio Code 的 AI 代码助手。
@@ -76,7 +73,6 @@
 - [Qodo（原 Codium）](https://www.qodo.ai/) - 自动化代码审查和测试生成。
 - [Sourcery](https://sourcery.ai/) - Python 的 AI 驱动代码审查和重构。
 - [CodeReviewBot](https://github.com/anc95/ChatGPT-CodeReview) - 使用 GPT-4 进行自动化代码审查。
-- [Amazon Q Developer Code Reviews](https://aws.amazon.com/q/developer/) - 内置代码审查功能。
 - [Sweep](https://sweep.dev/) - 用于拉取请求和错误修复的 AI 初级开发者。
 - [What The Diff](https://whatthediff.ai/) - 用于拉取请求的 AI 驱动代码审查助手。
 - [Pixee](https://pixee.ai/) - 自动化代码改进和安全修复。
@@ -87,17 +83,14 @@
 
 用于智能代码搜索、理解和跨代码库导航的工具。
 
-- [Sourcegraph Cody](https://sourcegraph.com/cody) - 具有深度代码库理解能力的代码 AI。
 - [Cosine](https://cosine.sh/) - AI 驱动的代码库索引和搜索。
 - [Phind](https://www.phind.com/) - 为开发者打造的 AI 搜索引擎。
 - [Bloop](https://bloop.ai/) - 由 GPT-4 驱动的代码搜索和导航。
-- [Pieces for Developers](https://pieces.app/) - 上下文感知的代码搜索和片段管理。
 
 ## 测试与质量保证
 
 AI 驱动的测试、测试生成和质量保证工具。
 
-- [Qodo（Codium）](https://www.qodo.ai/) - 自动化测试生成和代码完整性检查。
 - [Meticulous](https://meticulous.ai/) - 无需编写测试的自动化前端测试。
 - [TestRigor](https://testrigor.com/) - 使用 AI 的纯英文测试自动化。
 - [Applitools](https://applitools.com/) - 使用 AI 的可视化测试和监控。
@@ -109,7 +102,6 @@ AI 驱动的测试、测试生成和质量保证工具。
 
 专门为代码生成和理解训练的大型语言模型。
 
-- [OpenAI Codex](https://openai.com/blog/openai-codex) - 驱动 GitHub Copilot，将自然语言转换为代码。
 - [Code Llama](https://github.com/facebookresearch/codellama) - Meta 的开源代码生成模型。
 - [StarCoder](https://huggingface.co/bigcode/starcoder) - BigCode 推出的开源代码 LLM。
 - [WizardCoder](https://github.com/nlpxucan/WizardLM) - 基于 StarCoder 的增强代码生成模型。
@@ -122,11 +114,9 @@ AI 驱动的测试、测试生成和质量保证工具。
 
 将自然语言描述转换为可执行代码的工具。
 
-- [GitHub Copilot](https://github.com/features/copilot) - 在编辑器中实现自然语言到代码的转换。
 - [Plandex](https://plandex.ai/) - 基于终端的 AI 编码智能体，用于复杂任务。
 - [Pythagora](https://pythagora.ai/) - 从纯英文规范构建应用。
 - [Parsel](https://github.com/ezelikman/parsel) - 从自然语言自动实现算法。
-- [OpenAI GPT-4](https://openai.com/gpt-4) - 具有强大代码生成能力的通用模型。
 - [Claude](https://claude.ai/) - Anthropic 的 AI，具有扩展的代码理解上下文。
 
 ## 应用构建器与生成器
@@ -160,7 +150,6 @@ AI 驱动的设计转代码和 UI 生成工具。
 
 - [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli/) - GitHub 的 AI 命令行助手。
 - [Warp](https://www.warp.dev/) - 具有自然语言命令的 AI 驱动终端。
-- [Aider](https://aider.chat/) - 基于终端的 AI 结对程序员。
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - 使用 ChatGPT 的命令行 AI 助手。
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - 自然语言到 Shell 命令的转换。
 - [Fig](https://fig.io/) - 终端自动补全和 AI 助手（现为 AWS 的一部分）。
@@ -214,7 +203,6 @@ AI 驱动的数据库查询生成、API 开发和数据工具。
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim 的 ChatGPT 插件。
 - [gptel](https://github.com/karthink/gptel) - Emacs 的 ChatGPT 集成。
 - [CodeGPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) - VS Code 的 ChatGPT 扩展。
-- [Codeium](https://codeium.com/) - 为所有主流 IDE 提供的免费 AI 代码补全。
 - [Continue](https://continue.dev/) - VS Code 和 JetBrains 的开源自动驾驶工具。
 
 ## 相关列表

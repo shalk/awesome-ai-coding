@@ -1,63 +1,59 @@
-# CLAUDE.md
+# Project Guidelines
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+Awesome AI Coding is a curated list following the [Awesome List](https://awesome.re) format. This is a documentation-only repository with two synchronized files: [README.md](README.md) (English) and [README.zh-CN.md](README.zh-CN.md) (Chinese).
 
-## Repository Overview
+## Project Structure
 
-This is "awesome-ai-coding" - a curated list of AI-powered coding tools, libraries, and resources for developers. It follows the [Awesome List](https://awesome.re) format and structure.
+- `README.md` / `README.zh-CN.md` - Main content with 16 tool categories
+- `CONTRIBUTING.md` - Detailed contribution rules
+- No build system, tests, or dependencies
 
-## Repository Structure
+## Entry Format
 
-The repository contains three main files:
+**Required pattern** (see [README.md](README.md#ai-code-assistants--editors) for examples):
 
-- **README.md** - Main awesome list with 16 categories of AI coding tools
-- **CONTRIBUTING.md** - Guidelines for contributors
-- **CLAUDE.md** - This file
+```markdown
+- [Tool Name](https://url) - Brief description ending with period.
+```
 
-## Content Categories
+**Description rules:**
+- One sentence, factual, no marketing language ("best", "amazing")
+- Start with capital, end with period
+- Example: `[Cursor](https://cursor.sh/) - AI-first code editor built on VSCode with native chat and editing capabilities.`
 
-The README.md organizes AI coding tools into these categories:
+## Categories & Placement
 
-1. AI Code Assistants & Editors - Full IDEs and development environments
-2. Code Completion Tools - Real-time suggestion engines
-3. Coding Agents - Autonomous AI developers
-4. Code Review & Refactoring - Quality and review automation
-5. Code Search & Navigation - Codebase understanding tools
-6. Testing & QA - Test generation and automation
-7. AI Code Models - LLMs trained on code
-8. Natural Language to Code - Text-to-code converters
-9. App Builders & Generators - Low-code/no-code platforms
-10. UI Generators - Design-to-code tools
-11. Shell & CLI Assistants - Terminal AI tools
-12. Documentation Tools - Auto-documentation systems
-13. DevOps & Infrastructure - Deployment and cloud tools
-14. Security Tools - Vulnerability detection and fixes
-15. Database & API Tools - Data and API development
-16. Editor Integrations - IDE extensions
+Tools should go in ONE primary category based on main function:
+- **AI Code Assistants & Editors** - Full IDEs (GitHub Copilot, Cursor, Windsurf)
+- **Code Completion Tools** - Real-time suggestions (Codeium, Tabnine)
+- **Coding Agents** - Autonomous developers (Devin, Aider, OpenDevin)
+- See [README.md](README.md#contents) for all 16 categories
 
-## Content Guidelines
+**Avoid duplicates:** Search existing entries before adding. Each tool appears once.
 
-When adding or modifying entries:
+## Multi-File Editing
 
-- Follow the format: `- [Tool Name](url) - Brief description ending with period.`
-- Descriptions should be one sentence, factual, and avoid marketing language
-- Tools should be actively maintained and publicly available
-- Check for duplicates before adding
-- Place entries in the most appropriate category
-- Maintain alphabetical ordering within categories when possible
+When editing entries, **always update BOTH files simultaneously**:
+- [README.md](README.md) - English version
+- [README.zh-CN.md](README.zh-CN.md) - Chinese translation
 
-## Development Workflow
+Use `multi_replace_string_in_file` for efficiency when changing multiple entries.
 
-This is a documentation-only repository:
+## Link Updates
 
-- All content is Markdown
-- No build system, tests, or compilation required
-- Changes primarily involve editing README.md
-- Verify all links are functional before committing
-- Follow Contributing guidelines in CONTRIBUTING.md
+When updating URLs:
+- Verify new URL is canonical/official (e.g., `https://openai.com/index/openai-codex/`)
+- Update in both README files
+- Check if description needs adjustment
 
-## Git Workflow
+## Common Patterns
 
-- Main branch: `main`
-- Standard PR workflow for contributions
-- Commit messages should clearly describe what was added/changed
+**Moving entries between categories:**
+1. Remove from original category in both files
+2. Add to target category in both files
+3. Ensure description fits new category context
+
+**Removing duplicates:**
+- Keep entry in most relevant category
+- If tool serves multiple purposes, choose its PRIMARY function
+- Reference [CONTRIBUTING.md](CONTRIBUTING.md#where-to-add-your-entry) for category guidance

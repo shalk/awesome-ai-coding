@@ -34,20 +34,17 @@ Full-featured AI-powered development environments and intelligent code assistant
 - [Cursor](https://cursor.sh/) - AI-first code editor built on VSCode with native chat and editing capabilities.
 - [Windsurf](https://codeium.com/windsurf) - Agentic IDE by Codeium with flows for multi-file editing.
 - [Claude Code](https://claude.ai/code) - Anthropic's official CLI tool powered by Claude for autonomous coding tasks.
-- [Cody](https://sourcegraph.com/cody) - AI coding assistant by Sourcegraph with codebase context awareness.
-- [Aider](https://aider.chat/) - AI pair programming in your terminal, works with GPT-4, Claude, and local models.
+- [Sourcegraph Amp](https://sourcegraph.com/amp) - AI coding assistant by Sourcegraph with codebase context awareness.
 - [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains with customizable LLM support.
-- [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AI assistant for software development with AWS integration.
 - [Pieces for Developers](https://pieces.app/) - AI-powered code snippet manager with context-aware suggestions.
+- [OpenAI Codex](https://openai.com/index/openai-codex/) - Powers GitHub Copilot, translates natural language to code.
 
 ## Code Completion Tools
 
 Real-time AI-powered code completion and suggestion engines.
 
-- [GitHub Copilot](https://github.com/features/copilot) - Cloud-based completion powered by OpenAI Codex.
 - [Codeium](https://codeium.com/) - Free AI code completion supporting 70+ languages.
 - [Tabnine](https://www.tabnine.com/) - AI code completions trained on open source code, offers local and cloud options.
-- [Continue](https://continue.dev/) - Open-source code completion with support for multiple LLMs.
 - [FauxPilot](https://github.com/fauxpilot/fauxpilot) - Self-hosted GitHub Copilot alternative.
 - [TabbyML](https://tabby.tabbyml.com/) - Self-hosted AI coding assistant with RAG support.
 - [Safurai](https://www.safurai.com/) - AI code assistant for Visual Studio Code.
@@ -76,7 +73,6 @@ Automated code review, quality analysis, and refactoring tools.
 - [Qodo (formerly Codium)](https://www.qodo.ai/) - Automated code review and test generation.
 - [Sourcery](https://sourcery.ai/) - AI-powered code review and refactoring for Python.
 - [CodeReviewBot](https://github.com/anc95/ChatGPT-CodeReview) - Automated code review using GPT-4.
-- [Amazon Q Developer Code Reviews](https://aws.amazon.com/q/developer/) - Built-in code review capabilities.
 - [Sweep](https://sweep.dev/) - AI junior developer for pull requests and bug fixes.
 - [What The Diff](https://whatthediff.ai/) - AI-powered code review assistant for pull requests.
 - [Pixee](https://pixee.ai/) - Automated code improvements and security fixes.
@@ -87,17 +83,14 @@ Automated code review, quality analysis, and refactoring tools.
 
 Tools for intelligent code search, understanding, and navigation across codebases.
 
-- [Sourcegraph Cody](https://sourcegraph.com/cody) - Code AI with deep codebase understanding.
 - [Cosine](https://cosine.sh/) - AI-powered codebase indexing and search.
 - [Phind](https://www.phind.com/) - AI search engine for developers.
 - [Bloop](https://bloop.ai/) - Code search and navigation powered by GPT-4.
-- [Pieces for Developers](https://pieces.app/) - Context-aware code search and snippets.
 
 ## Testing & QA
 
 AI-powered testing, test generation, and quality assurance tools.
 
-- [Qodo (Codium)](https://www.qodo.ai/) - Automated test generation and code integrity.
 - [Meticulous](https://meticulous.ai/) - Automated frontend testing without writing tests.
 - [TestRigor](https://testrigor.com/) - Plain English test automation using AI.
 - [Applitools](https://applitools.com/) - Visual testing and monitoring with AI.
@@ -109,7 +102,6 @@ AI-powered testing, test generation, and quality assurance tools.
 
 Large language models specifically trained for code generation and understanding.
 
-- [OpenAI Codex](https://openai.com/blog/openai-codex) - Powers GitHub Copilot, translates natural language to code.
 - [Code Llama](https://github.com/facebookresearch/codellama) - Meta's open-source code generation model.
 - [StarCoder](https://huggingface.co/bigcode/starcoder) - Open-source LLM for code by BigCode.
 - [WizardCoder](https://github.com/nlpxucan/WizardLM) - Enhanced code generation based on StarCoder.
@@ -122,11 +114,9 @@ Large language models specifically trained for code generation and understanding
 
 Tools that convert natural language descriptions into executable code.
 
-- [GitHub Copilot](https://github.com/features/copilot) - Natural language to code in the editor.
 - [Plandex](https://plandex.ai/) - Terminal-based AI coding agent for complex tasks.
 - [Pythagora](https://pythagora.ai/) - Build apps from plain English specifications.
 - [Parsel](https://github.com/ezelikman/parsel) - Automatic implementation of algorithms from natural language.
-- [OpenAI GPT-4](https://openai.com/gpt-4) - General-purpose model with strong code generation.
 - [Claude](https://claude.ai/) - Anthropic's AI with extended context for code understanding.
 
 ## App Builders & Generators
@@ -160,7 +150,6 @@ AI-powered command-line and shell assistants for developers.
 
 - [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli/) - AI command-line assistant from GitHub.
 - [Warp](https://www.warp.dev/) - AI-powered terminal with natural language commands.
-- [Aider](https://aider.chat/) - Terminal-based AI pair programmer.
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Command-line AI assistant using ChatGPT.
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - Natural language to shell commands.
 - [Fig](https://fig.io/) - Terminal autocomplete and AI assistant (now part of AWS).
@@ -214,7 +203,6 @@ ChatGPT and LLM integrations for various editors and IDEs.
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for ChatGPT.
 - [gptel](https://github.com/karthink/gptel) - ChatGPT integration for Emacs.
 - [CodeGPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) - VS Code extension for ChatGPT.
-- [Codeium](https://codeium.com/) - Free AI code completion for all major IDEs.
 - [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains.
 
 ## Similar Lists
