@@ -11,20 +11,43 @@
 - [AI 代码助手与编辑器](#ai-代码助手与编辑器)
 - [代码补全工具](#代码补全工具)
 - [编码智能体](#编码智能体)
-- [代码审查与重构](#代码审查与重构)
+- [代码审查与质量](#代码审查与质量)
 - [代码搜索与导航](#代码搜索与导航)
 - [测试与质量保证](#测试与质量保证)
 - [AI 代码模型](#ai-代码模型)
-- [自然语言转代码](#自然语言转代码)
 - [应用构建器与生成器](#应用构建器与生成器)
 - [UI 生成器](#ui-生成器)
 - [Shell 与 CLI 助手](#shell-与-cli-助手)
 - [文档工具](#文档工具)
 - [DevOps 与基础设施](#devops-与基础设施)
-- [安全工具](#安全工具)
+- [安全与漏洞检测](#安全与漏洞检测)
 - [数据库与 API 工具](#数据库与-api-工具)
 - [编辑器集成](#编辑器集成)
 - [相关列表](#相关列表)
+
+## 如何选择
+
+浏览下面的分类，或使用这些快速筛选：
+
+### 按 AI 提供商
+- **GitHub/OpenAI**: GitHub Copilot, OpenAI Codex, GPT Engineer, AutoGPT
+- **Anthropic/Claude**: Claude Code
+- **多模型支持**（可配置）: Continue, Cursor, Codeium, Windsurf
+- **开源模型**: Code Llama, StarCoder, DeepSeek Coder
+- **专有模型**: Devin AI, Cursor, 大多数商业服务
+
+### 按界面类型
+- **完整 IDE**: Cursor, Windsurf
+- **IDE 扩展**: Continue, CodeGPT, Codeium（参见[编辑器集成](#编辑器集成)）
+- **CLI 工具**: Claude Code, Aider, Plandex, GitHub Copilot CLI
+- **Web 服务**: 大多数审查、测试和应用构建工具
+- **自托管**: FauxPilot, TabbyML, OpenDevin
+
+### 按部署模式
+- **云端**: 大多数商业工具（GitHub Copilot, Cursor 等）
+- **自托管**: FauxPilot, TabbyML, OpenDevin
+- **混合**（本地+云端）: Tabnine, Codeium
+- **纯本地**: 某些支持本地模型的自托管选项
 
 ## AI 代码助手与编辑器
 
@@ -62,10 +85,10 @@
 - [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 从自然语言提示构建完整代码库。
 - [Smol Developer](https://github.com/smol-ai/developer) - 个人初级开发者 AI 智能体。
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 用于软件开发的多智能体框架。
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 用于开发任务的自主 GPT-4 智能体。
-- [Pythagora](https://pythagora.ai/) - 使用 GPT-4 从零构建生产就绪应用。
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 用于开发任务的自主 GPT-4 智能体.
+- [Plandex](https://plandex.ai/) - 基于终端的 AI 编码智能体，用于复杂任务。
 
-## 代码审查与重构
+## 代码审查与质量
 
 自动化代码审查、质量分析和重构工具。
 
@@ -75,9 +98,7 @@
 - [CodeReviewBot](https://github.com/anc95/ChatGPT-CodeReview) - 使用 GPT-4 进行自动化代码审查。
 - [Sweep](https://sweep.dev/) - 用于拉取请求和错误修复的 AI 初级开发者。
 - [What The Diff](https://whatthediff.ai/) - 用于拉取请求的 AI 驱动代码审查助手。
-- [Pixee](https://pixee.ai/) - 自动化代码改进和安全修复。
 - [JetBrains Qodana](https://www.jetbrains.com/qodana/) - 具有 AI 洞察的智能代码质量平台。
-- [Snyk Code](https://snyk.io/product/snyk-code/) - AI 驱动的安全代码审查。
 
 ## 代码搜索与导航
 
@@ -110,21 +131,13 @@ AI 驱动的测试、测试生成和质量保证工具。
 - [Replit Code V1.5](https://huggingface.co/replit/replit-code-v1_5-3b) - Replit 的代码补全模型。
 - [DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - 在 2T tokens 上训练的开源代码模型。
 
-## 自然语言转代码
-
-将自然语言描述转换为可执行代码的工具。
-
-- [Plandex](https://plandex.ai/) - 基于终端的 AI 编码智能体，用于复杂任务。
-- [Pythagora](https://pythagora.ai/) - 从纯英文规范构建应用。
-- [Parsel](https://github.com/ezelikman/parsel) - 从自然语言自动实现算法。
-- [Claude](https://claude.ai/) - Anthropic 的 AI，具有扩展的代码理解上下文。
-
 ## 应用构建器与生成器
 
 AI 驱动的低代码/无代码平台和快速应用生成器。
 
 - [Bolt.new](https://bolt.new/) - StackBlitz 的提示到全栈应用，在浏览器中运行。
 - [Lovable（原 GPT Engineer）](https://lovable.dev/) - 从提示构建完整应用。
+- [Pythagora](https://pythagora.ai/) - 使用 GPT-4 从零构建生产就绪应用。
 - [Replit](https://replit.com/) - 基于浏览器的 IDE，具有 AI 驱动的应用生成功能。
 - [FlutterFlow](https://flutterflow.io/) - 可视化应用构建器，具有 AI 代码生成功能。
 - [Glide](https://www.glideapps.com/) - 使用 AI 从电子表格构建应用。
@@ -175,11 +188,12 @@ AI 驱动的设计转代码和 UI 生成工具。
 - [Pulumi AI](https://www.pulumi.com/ai/) - 自然语言到基础设施即代码的转换。
 - [Firefly](https://www.firefly.ai/) - 具有 AI 洞察的云资产管理。
 
-## 安全工具
+## 安全与漏洞检测
 
 AI 驱动的安全分析、漏洞检测和合规工具。
 
 - [Snyk](https://snyk.io/) - 具有 AI 驱动修复的开发者安全工具。
+- [Snyk Code](https://snyk.io/product/snyk-code/) - AI 驱动的安全代码审查。
 - [GitGuardian](https://www.gitguardian.com/) - 秘密检测和修复。
 - [Semgrep](https://semgrep.dev/) - 具有 AI 辅助规则创建的静态分析。
 - [Socket](https://socket.dev/) - AI 驱动的供应链安全。
@@ -202,8 +216,6 @@ AI 驱动的数据库查询生成、API 开发和数据工具。
 
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim 的 ChatGPT 插件。
 - [gptel](https://github.com/karthink/gptel) - Emacs 的 ChatGPT 集成。
-- [CodeGPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) - VS Code 的 ChatGPT 扩展。
-- [Continue](https://continue.dev/) - VS Code 和 JetBrains 的开源自动驾驶工具。
 
 ## 相关列表
 

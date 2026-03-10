@@ -11,20 +11,43 @@ This collection focuses on AI tools that enhance the software development workfl
 - [AI Code Assistants & Editors](#ai-code-assistants--editors)
 - [Code Completion Tools](#code-completion-tools)
 - [Coding Agents](#coding-agents)
-- [Code Review & Refactoring](#code-review--refactoring)
+- [Code Review & Quality](#code-review--quality)
 - [Code Search & Navigation](#code-search--navigation)
 - [Testing & QA](#testing--qa)
 - [AI Code Models](#ai-code-models)
-- [Natural Language to Code](#natural-language-to-code)
 - [App Builders & Generators](#app-builders--generators)
 - [UI Generators](#ui-generators)
 - [Shell & CLI Assistants](#shell--cli-assistants)
 - [Documentation Tools](#documentation-tools)
 - [DevOps & Infrastructure](#devops--infrastructure)
-- [Security Tools](#security-tools)
+- [Security & Vulnerability Detection](#security--vulnerability-detection)
 - [Database & API Tools](#database--api-tools)
 - [Editor Integrations](#editor-integrations)
 - [Similar Lists](#similar-lists)
+
+## How to Choose
+
+Browse by category below, or use these quick filters:
+
+### By AI Provider
+- **GitHub/OpenAI**: GitHub Copilot, OpenAI Codex, GPT Engineer, AutoGPT
+- **Anthropic/Claude**: Claude Code
+- **Multi-model** (configurable): Continue, Cursor, Codeium, Windsurf
+- **Open source models**: Code Llama, StarCoder, DeepSeek Coder
+- **Proprietary**: Devin AI, Cursor, most commercial services
+
+### By Interface Type
+- **Full IDEs**: Cursor, Windsurf
+- **IDE Extensions**: Continue, CodeGPT, Codeium (see [Editor Integrations](#editor-integrations))
+- **CLI Tools**: Claude Code, Aider, Plandex, GitHub Copilot CLI
+- **Web Services**: Most review, testing, and app builder tools
+- **Self-hosted**: FauxPilot, TabbyML, OpenDevin
+
+### By Deployment Model
+- **Cloud-based**: Most commercial tools (GitHub Copilot, Cursor, etc.)
+- **Self-hosted**: FauxPilot, TabbyML, OpenDevin
+- **Hybrid** (local + cloud): Tabnine, Codeium
+- **Local-only**: Some self-hosted options with local models
 
 ## AI Code Assistants & Editors
 
@@ -63,9 +86,9 @@ Autonomous AI agents that can write, debug, and deploy code independently.
 - [Smol Developer](https://github.com/smol-ai/developer) - Personal junior developer AI agent.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework for software development.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous GPT-4 agent for development tasks.
-- [Pythagora](https://pythagora.ai/) - Build production-ready apps from scratch using GPT-4.
+- [Plandex](https://plandex.ai/) - Terminal-based AI coding agent for complex tasks.
 
-## Code Review & Refactoring
+## Code Review & Quality
 
 Automated code review, quality analysis, and refactoring tools.
 
@@ -75,9 +98,7 @@ Automated code review, quality analysis, and refactoring tools.
 - [CodeReviewBot](https://github.com/anc95/ChatGPT-CodeReview) - Automated code review using GPT-4.
 - [Sweep](https://sweep.dev/) - AI junior developer for pull requests and bug fixes.
 - [What The Diff](https://whatthediff.ai/) - AI-powered code review assistant for pull requests.
-- [Pixee](https://pixee.ai/) - Automated code improvements and security fixes.
 - [JetBrains Qodana](https://www.jetbrains.com/qodana/) - Smart code quality platform with AI insights.
-- [Snyk Code](https://snyk.io/product/snyk-code/) - AI-powered security code review.
 
 ## Code Search & Navigation
 
@@ -110,21 +131,13 @@ Large language models specifically trained for code generation and understanding
 - [Replit Code V1.5](https://huggingface.co/replit/replit-code-v1_5-3b) - Replit's code completion model.
 - [DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Open-source code model trained on 2T tokens.
 
-## Natural Language to Code
-
-Tools that convert natural language descriptions into executable code.
-
-- [Plandex](https://plandex.ai/) - Terminal-based AI coding agent for complex tasks.
-- [Pythagora](https://pythagora.ai/) - Build apps from plain English specifications.
-- [Parsel](https://github.com/ezelikman/parsel) - Automatic implementation of algorithms from natural language.
-- [Claude](https://claude.ai/) - Anthropic's AI with extended context for code understanding.
-
 ## App Builders & Generators
 
 Low-code/no-code platforms and rapid application generators powered by AI.
 
 - [Bolt.new](https://bolt.new/) - StackBlitz's prompt-to-full-stack app in the browser.
 - [Lovable (formerly GPT Engineer)](https://lovable.dev/) - Build full applications from prompts.
+- [Pythagora](https://pythagora.ai/) - Build production-ready apps from scratch using GPT-4.
 - [Replit](https://replit.com/) - Browser-based IDE with AI-powered app generation.
 - [FlutterFlow](https://flutterflow.io/) - Visual app builder with AI code generation.
 - [Glide](https://www.glideapps.com/) - Build apps from spreadsheets with AI.
@@ -175,11 +188,12 @@ AI tools for deployment automation, infrastructure management, and DevOps.
 - [Pulumi AI](https://www.pulumi.com/ai/) - Natural language to infrastructure as code.
 - [Firefly](https://www.firefly.ai/) - Cloud asset management with AI insights.
 
-## Security Tools
+## Security & Vulnerability Detection
 
 AI-powered security analysis, vulnerability detection, and compliance tools.
 
 - [Snyk](https://snyk.io/) - Developer security with AI-powered fixes.
+- [Snyk Code](https://snyk.io/product/snyk-code/) - AI-powered security code review.
 - [GitGuardian](https://www.gitguardian.com/) - Secrets detection and remediation.
 - [Semgrep](https://semgrep.dev/) - Static analysis with AI-assisted rule creation.
 - [Socket](https://socket.dev/) - AI-powered supply chain security.
@@ -202,8 +216,6 @@ ChatGPT and LLM integrations for various editors and IDEs.
 
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for ChatGPT.
 - [gptel](https://github.com/karthink/gptel) - ChatGPT integration for Emacs.
-- [CodeGPT](https://marketplace.visualstudio.com/items?itemName=DanielSanMedium.dscodegpt) - VS Code extension for ChatGPT.
-- [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains.
 
 ## Similar Lists
 
