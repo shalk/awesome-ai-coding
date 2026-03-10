@@ -8,22 +8,22 @@ This collection focuses on AI tools that enhance the software development workfl
 
 ## Contents
 
-- [AI Code Assistants & Editors](#ai-code-assistants--editors)
-- [Code Completion Tools](#code-completion-tools)
-- [Coding Agents](#coding-agents)
-- [Code Review & Quality](#code-review--quality)
-- [Code Search & Navigation](#code-search--navigation)
-- [Testing & QA](#testing--qa)
-- [AI Code Models](#ai-code-models)
-- [App Builders & Generators](#app-builders--generators)
-- [UI Generators](#ui-generators)
-- [Shell & CLI Assistants](#shell--cli-assistants)
-- [Documentation Tools](#documentation-tools)
-- [DevOps & Infrastructure](#devops--infrastructure)
-- [Security & Vulnerability Detection](#security--vulnerability-detection)
-- [Database & API Tools](#database--api-tools)
-- [Editor Integrations](#editor-integrations)
-- [Similar Lists](#similar-lists)
+- [🤖 AI Code Assistants & Editors](#-ai-code-assistants--editors)
+- [⚡ Code Completion Tools](#-code-completion-tools)
+- [🦾 Coding Agents](#-coding-agents)
+- [🔍 Code Review & Quality](#-code-review--quality)
+- [🧭 Code Search & Navigation](#-code-search--navigation)
+- [🧪 Testing & QA](#-testing--qa)
+- [🧠 AI Code Models](#-ai-code-models)
+- [🏗️ App Builders & Generators](#%EF%B8%8F-app-builders--generators)
+- [🎨 UI Generators](#-ui-generators)
+- [⌨️ Shell & CLI Assistants](#%EF%B8%8F-shell--cli-assistants)
+- [📚 Documentation Tools](#-documentation-tools)
+- [☁️ DevOps & Infrastructure](#%EF%B8%8F-devops--infrastructure)
+- [🛡️ Security & Vulnerability Detection](#%EF%B8%8F-security--vulnerability-detection)
+- [🗄️ Database & API Tools](#%EF%B8%8F-database--api-tools)
+- [🔌 Editor Integrations](#-editor-integrations)
+- [🔗 Similar Lists](#-similar-lists)
 
 ## How to Choose
 
@@ -49,7 +49,7 @@ Browse by category below, or use these quick filters:
 - **Hybrid** (local + cloud): Tabnine, Codeium
 - **Local-only**: Some self-hosted options with local models
 
-## AI Code Assistants & Editors
+## 🤖 AI Code Assistants & Editors
 
 Full-featured AI-powered development environments and intelligent code assistants.
 
@@ -62,7 +62,7 @@ Full-featured AI-powered development environments and intelligent code assistant
 - [Pieces for Developers](https://pieces.app/) - AI-powered code snippet manager with context-aware suggestions.
 - [OpenAI Codex](https://openai.com/index/openai-codex/) - Powers GitHub Copilot, translates natural language to code.
 
-## Code Completion Tools
+## ⚡ Code Completion Tools
 
 Real-time AI-powered code completion and suggestion engines.
 
@@ -74,7 +74,7 @@ Real-time AI-powered code completion and suggestion engines.
 - [Supermaven](https://supermaven.com/) - Fast AI code completion with large context window.
 - [CodeGPT](https://codegpt.co/) - Code completion with customizable AI models.
 
-## Coding Agents
+## 🦾 Coding Agents
 
 Autonomous AI agents that can write, debug, and deploy code independently.
 
@@ -88,7 +88,7 @@ Autonomous AI agents that can write, debug, and deploy code independently.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous GPT-4 agent for development tasks.
 - [Plandex](https://plandex.ai/) - Terminal-based AI coding agent for complex tasks.
 
-## Code Review & Quality
+## 🔍 Code Review & Quality
 
 Automated code review, quality analysis, and refactoring tools.
 
@@ -100,7 +100,7 @@ Automated code review, quality analysis, and refactoring tools.
 - [What The Diff](https://whatthediff.ai/) - AI-powered code review assistant for pull requests.
 - [JetBrains Qodana](https://www.jetbrains.com/qodana/) - Smart code quality platform with AI insights.
 
-## Code Search & Navigation
+## 🧭 Code Search & Navigation
 
 Tools for intelligent code search, understanding, and navigation across codebases.
 
@@ -108,7 +108,7 @@ Tools for intelligent code search, understanding, and navigation across codebase
 - [Phind](https://www.phind.com/) - AI search engine for developers.
 - [Bloop](https://bloop.ai/) - Code search and navigation powered by GPT-4.
 
-## Testing & QA
+## 🧪 Testing & QA
 
 AI-powered testing, test generation, and quality assurance tools.
 
@@ -119,7 +119,7 @@ AI-powered testing, test generation, and quality assurance tools.
 - [Testim](https://www.testim.io/) - AI-based test automation with self-healing tests.
 - [Diffblue Cover](https://www.diffblue.com/) - AI-powered unit test generation for Java.
 
-## AI Code Models
+## 🧠 AI Code Models
 
 Large language models specifically trained for code generation and understanding.
 
@@ -131,7 +131,7 @@ Large language models specifically trained for code generation and understanding
 - [Replit Code V1.5](https://huggingface.co/replit/replit-code-v1_5-3b) - Replit's code completion model.
 - [DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Open-source code model trained on 2T tokens.
 
-## App Builders & Generators
+## 🏗️ App Builders & Generators
 
 Low-code/no-code platforms and rapid application generators powered by AI.
 
@@ -145,7 +145,7 @@ Low-code/no-code platforms and rapid application generators powered by AI.
 - [Durable](https://durable.co/) - AI website and app builder.
 - [Capacity](https://capacity.com/) - AI-powered business app builder.
 
-## UI Generators
+## 🎨 UI Generators
 
 Design-to-code and UI generation tools powered by AI.
 
@@ -157,7 +157,7 @@ Design-to-code and UI generation tools powered by AI.
 - [Figma AI](https://www.figma.com/ai/) - Native AI features in Figma for design generation.
 - [Locofy](https://www.locofy.ai/) - Figma/Adobe XD to production-ready code.
 
-## Shell & CLI Assistants
+## ⌨️ Shell & CLI Assistants
 
 AI-powered command-line and shell assistants for developers.
 
@@ -167,7 +167,7 @@ AI-powered command-line and shell assistants for developers.
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - Natural language to shell commands.
 - [Fig](https://fig.io/) - Terminal autocomplete and AI assistant (now part of AWS).
 
-## Documentation Tools
+## 📚 Documentation Tools
 
 Automated documentation generation and maintenance using AI.
 
@@ -178,7 +178,7 @@ Automated documentation generation and maintenance using AI.
 - [Stenography](https://stenography.dev/) - Automatic code documentation generator.
 - [Swimm](https://swimm.io/) - AI-powered documentation platform for code.
 
-## DevOps & Infrastructure
+## ☁️ DevOps & Infrastructure
 
 AI tools for deployment automation, infrastructure management, and DevOps.
 
@@ -188,7 +188,7 @@ AI tools for deployment automation, infrastructure management, and DevOps.
 - [Pulumi AI](https://www.pulumi.com/ai/) - Natural language to infrastructure as code.
 - [Firefly](https://www.firefly.ai/) - Cloud asset management with AI insights.
 
-## Security & Vulnerability Detection
+## 🛡️ Security & Vulnerability Detection
 
 AI-powered security analysis, vulnerability detection, and compliance tools.
 
@@ -200,7 +200,7 @@ AI-powered security analysis, vulnerability detection, and compliance tools.
 - [Pixee](https://pixee.ai/) - Automated security and code quality improvements.
 - [CodeQL](https://codeql.github.com/) - GitHub's semantic code analysis engine.
 
-## Database & API Tools
+## 🗄️ Database & API Tools
 
 AI-powered database query generation, API development, and data tools.
 
@@ -210,14 +210,14 @@ AI-powered database query generation, API development, and data tools.
 - [Patterns](https://www.patterns.app/) - Data pipeline building with AI assistance.
 - [Supabase AI](https://supabase.com/ai) - AI SQL editor and database assistant.
 
-## Editor Integrations
+## 🔌 Editor Integrations
 
 ChatGPT and LLM integrations for various editors and IDEs.
 
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for ChatGPT.
 - [gptel](https://github.com/karthink/gptel) - ChatGPT integration for Emacs.
 
-## Similar Lists
+## 🔗 Similar Lists
 
 Other curated lists related to AI coding and development.
 

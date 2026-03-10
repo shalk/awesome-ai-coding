@@ -8,22 +8,22 @@
 
 ## 目录
 
-- [AI 代码助手与编辑器](#ai-代码助手与编辑器)
-- [代码补全工具](#代码补全工具)
-- [编码智能体](#编码智能体)
-- [代码审查与质量](#代码审查与质量)
-- [代码搜索与导航](#代码搜索与导航)
-- [测试与质量保证](#测试与质量保证)
-- [AI 代码模型](#ai-代码模型)
-- [应用构建器与生成器](#应用构建器与生成器)
-- [UI 生成器](#ui-生成器)
-- [Shell 与 CLI 助手](#shell-与-cli-助手)
-- [文档工具](#文档工具)
-- [DevOps 与基础设施](#devops-与基础设施)
-- [安全与漏洞检测](#安全与漏洞检测)
-- [数据库与 API 工具](#数据库与-api-工具)
-- [编辑器集成](#编辑器集成)
-- [相关列表](#相关列表)
+- [🤖 AI 代码助手与编辑器](#-ai-代码助手与编辑器)
+- [⚡ 代码补全工具](#-代码补全工具)
+- [🦾 编码智能体](#-编码智能体)
+- [🔍 代码审查与质量](#-代码审查与质量)
+- [🧭 代码搜索与导航](#-代码搜索与导航)
+- [🧪 测试与质量保证](#-测试与质量保证)
+- [🧠 AI 代码模型](#-ai-代码模型)
+- [🏗️ 应用构建器与生成器](#%EF%B8%8F-应用构建器与生成器)
+- [🎨 UI 生成器](#-ui-生成器)
+- [⌨️ Shell 与 CLI 助手](#%EF%B8%8F-shell-与-cli-助手)
+- [📚 文档工具](#-文档工具)
+- [☁️ DevOps 与基础设施](#%EF%B8%8F-devops-与基础设施)
+- [🛡️ 安全与漏洞检测](#%EF%B8%8F-安全与漏洞检测)
+- [🗄️ 数据库与 API 工具](#%EF%B8%8F-数据库与-api-工具)
+- [🔌 编辑器集成](#-编辑器集成)
+- [🔗 相关列表](#-相关列表)
 
 ## 如何选择
 
@@ -49,7 +49,7 @@
 - **混合**（本地+云端）: Tabnine, Codeium
 - **纯本地**: 某些支持本地模型的自托管选项
 
-## AI 代码助手与编辑器
+## 🤖 AI 代码助手与编辑器
 
 功能完整的 AI 驱动开发环境和智能代码助手。
 
@@ -62,7 +62,7 @@
 - [Pieces for Developers](https://pieces.app/) - AI 驱动的代码片段管理器，具有上下文感知建议。
 - [OpenAI Codex](https://openai.com/index/openai-codex/) - 驱动 GitHub Copilot，将自然语言转换为代码。
 
-## 代码补全工具
+## ⚡ 代码补全工具
 
 实时 AI 驱动的代码补全和建议引擎。
 
@@ -74,7 +74,7 @@
 - [Supermaven](https://supermaven.com/) - 具有大上下文窗口的快速 AI 代码补全。
 - [CodeGPT](https://codegpt.co/) - 支持可自定义 AI 模型的代码补全。
 
-## 编码智能体
+## 🦾 编码智能体
 
 能够独立编写、调试和部署代码的自主 AI 智能体。
 
@@ -88,7 +88,7 @@
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 用于开发任务的自主 GPT-4 智能体.
 - [Plandex](https://plandex.ai/) - 基于终端的 AI 编码智能体，用于复杂任务。
 
-## 代码审查与质量
+## 🔍 代码审查与质量
 
 自动化代码审查、质量分析和重构工具。
 
@@ -100,7 +100,7 @@
 - [What The Diff](https://whatthediff.ai/) - 用于拉取请求的 AI 驱动代码审查助手。
 - [JetBrains Qodana](https://www.jetbrains.com/qodana/) - 具有 AI 洞察的智能代码质量平台。
 
-## 代码搜索与导航
+## 🧭 代码搜索与导航
 
 用于智能代码搜索、理解和跨代码库导航的工具。
 
@@ -108,7 +108,7 @@
 - [Phind](https://www.phind.com/) - 为开发者打造的 AI 搜索引擎。
 - [Bloop](https://bloop.ai/) - 由 GPT-4 驱动的代码搜索和导航。
 
-## 测试与质量保证
+## 🧪 测试与质量保证
 
 AI 驱动的测试、测试生成和质量保证工具。
 
@@ -119,7 +119,7 @@ AI 驱动的测试、测试生成和质量保证工具。
 - [Testim](https://www.testim.io/) - 基于 AI 的测试自动化，具有自我修复测试功能。
 - [Diffblue Cover](https://www.diffblue.com/) - 为 Java 提供的 AI 驱动单元测试生成。
 
-## AI 代码模型
+## 🧠 AI 代码模型
 
 专门为代码生成和理解训练的大型语言模型。
 
@@ -131,7 +131,7 @@ AI 驱动的测试、测试生成和质量保证工具。
 - [Replit Code V1.5](https://huggingface.co/replit/replit-code-v1_5-3b) - Replit 的代码补全模型。
 - [DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - 在 2T tokens 上训练的开源代码模型。
 
-## 应用构建器与生成器
+## 🏗️ 应用构建器与生成器
 
 AI 驱动的低代码/无代码平台和快速应用生成器。
 
@@ -145,7 +145,7 @@ AI 驱动的低代码/无代码平台和快速应用生成器。
 - [Durable](https://durable.co/) - AI 网站和应用构建器。
 - [Capacity](https://capacity.com/) - AI 驱动的商业应用构建器。
 
-## UI 生成器
+## 🎨 UI 生成器
 
 AI 驱动的设计转代码和 UI 生成工具。
 
@@ -157,7 +157,7 @@ AI 驱动的设计转代码和 UI 生成工具。
 - [Figma AI](https://www.figma.com/ai/) - Figma 中的原生 AI 功能，用于设计生成。
 - [Locofy](https://www.locofy.ai/) - 将 Figma/Adobe XD 转换为生产就绪代码。
 
-## Shell 与 CLI 助手
+## ⌨️ Shell 与 CLI 助手
 
 为开发者打造的 AI 驱动命令行和 Shell 助手。
 
@@ -167,7 +167,7 @@ AI 驱动的设计转代码和 UI 生成工具。
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - 自然语言到 Shell 命令的转换。
 - [Fig](https://fig.io/) - 终端自动补全和 AI 助手（现为 AWS 的一部分）。
 
-## 文档工具
+## 📚 文档工具
 
 使用 AI 自动生成和维护文档。
 
@@ -178,7 +178,7 @@ AI 驱动的设计转代码和 UI 生成工具。
 - [Stenography](https://stenography.dev/) - 自动代码文档生成器。
 - [Swimm](https://swimm.io/) - AI 驱动的代码文档平台。
 
-## DevOps 与基础设施
+## ☁️ DevOps 与基础设施
 
 用于部署自动化、基础设施管理和 DevOps 的 AI 工具。
 
@@ -188,7 +188,7 @@ AI 驱动的设计转代码和 UI 生成工具。
 - [Pulumi AI](https://www.pulumi.com/ai/) - 自然语言到基础设施即代码的转换。
 - [Firefly](https://www.firefly.ai/) - 具有 AI 洞察的云资产管理。
 
-## 安全与漏洞检测
+## 🛡️ 安全与漏洞检测
 
 AI 驱动的安全分析、漏洞检测和合规工具。
 
@@ -200,7 +200,7 @@ AI 驱动的安全分析、漏洞检测和合规工具。
 - [Pixee](https://pixee.ai/) - 自动化安全和代码质量改进。
 - [CodeQL](https://codeql.github.com/) - GitHub 的语义代码分析引擎。
 
-## 数据库与 API 工具
+## 🗄️ 数据库与 API 工具
 
 AI 驱动的数据库查询生成、API 开发和数据工具。
 
@@ -210,14 +210,14 @@ AI 驱动的数据库查询生成、API 开发和数据工具。
 - [Patterns](https://www.patterns.app/) - 具有 AI 辅助的数据管道构建。
 - [Supabase AI](https://supabase.com/ai) - AI SQL 编辑器和数据库助手。
 
-## 编辑器集成
+## 🔌 编辑器集成
 
 用于各种编辑器和 IDE 的 ChatGPT 和 LLM 集成。
 
 - [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim 的 ChatGPT 插件。
 - [gptel](https://github.com/karthink/gptel) - Emacs 的 ChatGPT 集成。
 
-## 相关列表
+## 🔗 相关列表
 
 与 AI 编程和开发相关的其他精选列表。
 
