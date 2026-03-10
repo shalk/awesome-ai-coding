@@ -1,0 +1,27 @@
+README.md
+  56c0e8d2d734bcb7 14,23,28-50,89,91,140,191,196
+CLAUDE.md
+  56c0e8d2d734bcb7 31-88
+README.zh-CN.md
+  56c0e8d2d734bcb7 14,23,28-50,89,91,140,191,196
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "5e94959229c82b409f2a3e8e7f67db882534fac2",
+  "prompts": {
+    "56c0e8d2d734bcb7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3618e39b-da72-423d-aa5f-650bc8d746b7",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>",
+      "messages": [],
+      "total_additions": 122,
+      "total_deletions": 40,
+      "accepted_lines": 121,
+      "overriden_lines": 0
+    }
+  }
+}
