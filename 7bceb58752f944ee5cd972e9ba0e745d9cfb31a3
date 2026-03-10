@@ -1,0 +1,25 @@
+README.zh-CN.md
+  38290e9091b83fb8 11-26,52,65,77,91,103,111,122,134,148,160,170,181,191,203,213,220
+README.md
+  38290e9091b83fb8 11-26,52,65,77,91,103,111,122,134,148,160,170,181,191,203,213,220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "7bceb58752f944ee5cd972e9ba0e745d9cfb31a3",
+  "prompts": {
+    "38290e9091b83fb8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b8053bd1-54fa-470b-b9a4-0a3051bfec58",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>",
+      "messages": [],
+      "total_additions": 64,
+      "total_deletions": 64,
+      "accepted_lines": 64,
+      "overriden_lines": 0
+    }
+  }
+}
