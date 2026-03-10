@@ -5,7 +5,6 @@ Awesome AI Coding is a curated list following the [Awesome List](https://awesome
 ## Project Structure
 
 - `README.md` / `README.zh-CN.md` - Main content with 16 tool categories
-- `CONTRIBUTING.md` - Detailed contribution rules
 - No build system, tests, or dependencies
 
 ## Entry Format
@@ -25,9 +24,8 @@ Awesome AI Coding is a curated list following the [Awesome List](https://awesome
 
 Tools should go in ONE primary category based on main function:
 - **AI Code Assistants & Editors** - Full IDEs (GitHub Copilot, Cursor, Windsurf)
-- **Code Completion Tools** - Real-time suggestions (Codeium, Tabnine)
 - **Coding Agents** - Autonomous developers (Devin, Aider, OpenDevin)
-- See [README.md](README.md#contents) for all 16 categories
+
 
 **Avoid duplicates:** Search existing entries before adding. Each tool appears once.
 
@@ -39,13 +37,6 @@ When editing entries, **always update BOTH files simultaneously**:
 
 Use `multi_replace_string_in_file` for efficiency when changing multiple entries.
 
-## Link Updates
-
-When updating URLs:
-- Verify new URL is canonical/official (e.g., `https://openai.com/index/openai-codex/`)
-- Update in both README files
-- Check if description needs adjustment
-
 ## Common Patterns
 
 **Moving entries between categories:**
@@ -56,4 +47,3 @@ When updating URLs:
 **Removing duplicates:**
 - Keep entry in most relevant category
 - If tool serves multiple purposes, choose its PRIMARY function
-- Reference [CONTRIBUTING.md](CONTRIBUTING.md#where-to-add-your-entry) for category guidance
