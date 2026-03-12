@@ -61,6 +61,10 @@ Full-featured AI-powered development environments and intelligent code assistant
 - [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains with customizable LLM support.
 - [Pieces for Developers](https://pieces.app/) - AI-powered code snippet manager with context-aware suggestions.
 - [OpenAI Codex](https://openai.com/index/openai-codex/) - Powers GitHub Copilot, translates natural language to code.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal AI coding agent powered by Gemini with file system access and MCP support.
+- [Antigravity](https://antigravity.google/) - Google's AI-powered coding assistant for development environments.
+- [Kiro](https://kiro.dev/) - AWS agentic AI IDE with spec-driven development that converts requirements into code automatically, powered by Claude.
+- [Kiro CLI](https://kiro.dev/cli/) - AWS terminal AI coding agent with conversational coding, smart hooks, custom agents, and MCP integration.
 
 ## ⚡ Code Completion Tools
 
@@ -87,6 +91,7 @@ Autonomous AI agents that can write, debug, and deploy code independently.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework for software development.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous GPT-4 agent for development tasks.
 - [Plandex](https://plandex.ai/) - Terminal-based AI coding agent for complex tasks.
+- [Air](https://air.dev/) - AI agent platform for multitasking development workflows with human-in-the-loop control.
 
 ## 🔍 Code Review & Quality
 

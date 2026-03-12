@@ -61,6 +61,10 @@
 - [Continue](https://continue.dev/) - VS Code 和 JetBrains 的开源自动驾驶工具，支持可自定义的 LLM。
 - [Pieces for Developers](https://pieces.app/) - AI 驱动的代码片段管理器，具有上下文感知建议。
 - [OpenAI Codex](https://openai.com/index/openai-codex/) - 驱动 GitHub Copilot，将自然语言转换为代码。
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google 开源的终端 AI 编码智能体，由 Gemini 模型驱动，支持文件系统访问和 MCP。
+- [Antigravity](https://antigravity.google/) - Google 的 AI 驱动编码助手，用于开发环境。
+- [Kiro](https://kiro.dev/) - AWS 推出的智能体 AI IDE，由 Claude 驱动，通过规格驱动开发将需求自动转换为代码。
+- [Kiro CLI](https://kiro.dev/cli/) - AWS 推出的终端 AI 编码智能体，支持对话式编码、智能钩子、自定义智能体和 MCP 集成。
 
 ## ⚡ 代码补全工具
 
@@ -87,6 +91,7 @@
 - [MetaGPT](https://github.com/geekan/MetaGPT) - 用于软件开发的多智能体框架。
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 用于开发任务的自主 GPT-4 智能体.
 - [Plandex](https://plandex.ai/) - 基于终端的 AI 编码智能体，用于复杂任务。
+- [Air](https://air.dev/) - 支持多任务开发工作流的 AI 智能体平台，提供人机协作控制。
 
 ## 🔍 代码审查与质量
 
