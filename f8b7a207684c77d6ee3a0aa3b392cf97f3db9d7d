@@ -1,0 +1,40 @@
+README.zh-CN.md
+  cfed5b61aeea464b 66-67
+  ed36b3ccf687ed9b 64-65,94
+README.md
+  cfed5b61aeea464b 66-67
+  ed36b3ccf687ed9b 64-65,94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.10",
+  "base_commit_sha": "f8b7a207684c77d6ee3a0aa3b392cf97f3db9d7d",
+  "prompts": {
+    "cfed5b61aeea464b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e12f8f6-9e2e-4faf-b2a9-ca802b561516",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    },
+    "ed36b3ccf687ed9b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20d18188-1249-42b8-a553-e8de162d2a62",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>",
+      "messages": [],
+      "total_additions": 6,
+      "total_deletions": 0,
+      "accepted_lines": 6,
+      "overriden_lines": 0
+    }
+  }
+}
