@@ -171,6 +171,8 @@ AI-powered command-line and shell assistants for developers.
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - Command-line AI assistant using ChatGPT.
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - Natural language to shell commands.
 - [Fig](https://fig.io/) - Terminal autocomplete and AI assistant (now part of AWS).
+- [RTK](https://github.com/rtk-ai/rtk) - CLI proxy that compresses developer tool output before sending to LLMs, reducing token consumption by 60-90%.
+- [CodexBar](https://github.com/steipete/CodexBar) - macOS menu bar app that monitors token usage and rate limits across 15+ AI coding assistants.
 
 ## 📚 Documentation Tools
 

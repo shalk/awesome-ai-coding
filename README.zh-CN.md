@@ -171,6 +171,8 @@ AI 驱动的设计转代码和 UI 生成工具。
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - 使用 ChatGPT 的命令行 AI 助手。
 - [AI Shell](https://github.com/BuilderIO/ai-shell) - 自然语言到 Shell 命令的转换。
 - [Fig](https://fig.io/) - 终端自动补全和 AI 助手（现为 AWS 的一部分）。
+- [RTK](https://github.com/rtk-ai/rtk) - 命令行代理，将开发工具输出压缩后再传给 LLM，可减少 60-90% 的 token 消耗。
+- [CodexBar](https://github.com/steipete/CodexBar) - macOS 菜单栏应用，实时监控 15+ AI 编程助手的 token 用量与速率限制。
 
 ## 📚 文档工具
 
