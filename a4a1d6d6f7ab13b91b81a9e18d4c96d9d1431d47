@@ -1,0 +1,25 @@
+README.zh-CN.md
+  5e02cef1e096e4a3 174-175
+README.md
+  5e02cef1e096e4a3 174-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.12",
+  "base_commit_sha": "a4a1d6d6f7ab13b91b81a9e18d4c96d9d1431d47",
+  "prompts": {
+    "5e02cef1e096e4a3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "43dbf0a4-46a0-4010-8a0f-a9accc0a4f79",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "shalk(xiao kun) <xshalk@outlook.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 0,
+      "accepted_lines": 4,
+      "overriden_lines": 0
+    }
+  }
+}
