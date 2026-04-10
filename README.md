@@ -173,6 +173,7 @@ AI-powered command-line and shell assistants for developers.
 - [Fig](https://fig.io/) - Terminal autocomplete and AI assistant (now part of AWS).
 - [RTK](https://github.com/rtk-ai/rtk) - CLI proxy that compresses developer tool output before sending to LLMs, reducing token consumption by 60-90%.
 - [CodexBar](https://github.com/steipete/CodexBar) - macOS menu bar app that monitors token usage and rate limits across 15+ AI coding assistants.
+- [grugbot420](https://github.com/grug-group420/grugbot420) - AI-powered CLI assistant with neuromorphic intelligence and zero dependencies, built with Bun.
 
 ## 📚 Documentation Tools
 
