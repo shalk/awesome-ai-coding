@@ -65,6 +65,7 @@ Full-featured AI-powered development environments and intelligent code assistant
 - [Antigravity](https://antigravity.google/) - Google's AI-powered coding assistant for development environments.
 - [Kiro](https://kiro.dev/) - AWS agentic AI IDE with spec-driven development that converts requirements into code automatically, powered by Claude.
 - [Kiro CLI](https://kiro.dev/cli/) - AWS terminal AI coding agent with conversational coding, smart hooks, custom agents, and MCP integration.
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin for SEO, Google Ads, content writing, CMS setup, and optimization workflows.
 
 ## ⚡ Code Completion Tools
 
