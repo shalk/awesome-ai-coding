@@ -32,20 +32,20 @@ Browse by category below, or use these quick filters:
 ### By AI Provider
 - **GitHub/OpenAI**: GitHub Copilot, OpenAI Codex, GPT Engineer, AutoGPT
 - **Anthropic/Claude**: Claude Code
-- **Multi-model** (configurable): Continue, Cursor, Codeium, Windsurf
+- **Multi-model** (configurable): Continue, Cursor, Codeium, Cline
 - **Open source models**: Code Llama, StarCoder, DeepSeek Coder
 - **Proprietary**: Devin AI, Cursor, most commercial services
 
 ### By Interface Type
-- **Full IDEs**: Cursor, Windsurf
+- **Full IDEs**: Cursor, Zed, Devin Desktop
 - **IDE Extensions**: Continue, CodeGPT, Codeium (see [Editor Integrations](#editor-integrations))
 - **CLI Tools**: Claude Code, Aider, Plandex, GitHub Copilot CLI
 - **Web Services**: Most review, testing, and app builder tools
-- **Self-hosted**: FauxPilot, TabbyML, OpenDevin
+- **Self-hosted**: FauxPilot, TabbyML, OpenHands
 
 ### By Deployment Model
 - **Cloud-based**: Most commercial tools (GitHub Copilot, Cursor, etc.)
-- **Self-hosted**: FauxPilot, TabbyML, OpenDevin
+- **Self-hosted**: FauxPilot, TabbyML, OpenHands
 - **Hybrid** (local + cloud): Tabnine, Codeium
 - **Local-only**: Some self-hosted options with local models
 
@@ -53,18 +53,22 @@ Browse by category below, or use these quick filters:
 
 Full-featured AI-powered development environments and intelligent code assistants.
 
-- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that suggests code and entire functions in real-time.
+- [GitHub Copilot](https://github.com/features/copilot) - AI coding assistant with agent mode, background cloud agents, Copilot Spaces, and MCP registry integration.
 - [Cursor](https://cursor.sh/) - AI-first code editor built on VSCode with native chat and editing capabilities.
-- [Windsurf](https://codeium.com/windsurf) - Agentic IDE by Codeium with flows for multi-file editing.
-- [Claude Code](https://claude.ai/code) - Anthropic's official CLI tool powered by Claude for autonomous coding tasks.
+- [Devin Desktop](https://devin.ai/desktop) - Agentic IDE by Cognition (formerly Windsurf) with multi-agent orchestration and built-in Kanban task management.
+- [Claude Code](https://claude.ai/code) - Anthropic's official CLI agent with parallel subagents, scheduled routines, computer use, and IDE integrations for VS Code and JetBrains.
 - [Sourcegraph Amp](https://sourcegraph.com/amp) - AI coding assistant by Sourcegraph with codebase context awareness.
 - [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains with customizable LLM support.
 - [Pieces for Developers](https://pieces.app/) - AI-powered code snippet manager with context-aware suggestions.
-- [OpenAI Codex](https://openai.com/index/openai-codex/) - Powers GitHub Copilot, translates natural language to code.
+- [OpenAI Codex](https://openai.com/codex) - Cloud-based software engineering agent integrated into GitHub Copilot and major AI-native editors.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google's open-source terminal AI coding agent powered by Gemini with file system access and MCP support.
 - [Antigravity](https://antigravity.google/) - Google's AI-powered coding assistant for development environments.
 - [Kiro](https://kiro.dev/) - AWS agentic AI IDE with spec-driven development that converts requirements into code automatically, powered by Claude.
 - [Kiro CLI](https://kiro.dev/cli/) - AWS terminal AI coding agent with conversational coding, smart hooks, custom agents, and MCP integration.
+- [Zed](https://zed.dev/) - High-performance, multiplayer code editor written in Rust with built-in AI, native agent support (ACP protocol), and an integrated debugger.
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS AI coding assistant with real-time code suggestions, agentic task handling, and security scanning across VS Code, JetBrains, and CLI.
+- [Google Gemini Code Assist](https://codeassist.google/) - Google's enterprise AI coding assistant powered by Gemini models for VS Code and JetBrains.
+- [Augment Code](https://www.augmentcode.com/) - Agentic software development platform with organizational context engine, model routing, and pre-built agents for PR authoring, code review, and security.
 
 ## ⚡ Code Completion Tools
 
@@ -82,9 +86,9 @@ Real-time AI-powered code completion and suggestion engines.
 
 Autonomous AI agents that can write, debug, and deploy code independently.
 
-- [Devin AI](https://devin.ai/) - First AI software engineer capable of autonomous development.
+- [Devin AI](https://devin.ai/) - Autonomous AI software engineer capable of end-to-end development, integrating with GitHub, AWS, Azure, Slack, and Linear.
 - [Devon](https://github.com/entropy-research/Devon) - Open-source pair programmer agent.
-- [OpenDevin](https://github.com/OpenDevin/OpenDevin) - Open platform for AI software developers.
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source AI agent platform for autonomous software development across entire repositories.
 - [Aider](https://aider.chat/) - AI pair programmer that edits code in your local git repository.
 - [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Build entire codebases from natural language prompts.
 - [Smol Developer](https://github.com/smol-ai/developer) - Personal junior developer AI agent.
@@ -92,6 +96,8 @@ Autonomous AI agents that can write, debug, and deploy code independently.
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Autonomous GPT-4 agent for development tasks.
 - [Plandex](https://plandex.ai/) - Terminal-based AI coding agent for complex tasks.
 - [Air](https://air.dev/) - AI agent platform for multitasking development workflows with human-in-the-loop control.
+- [Cline](https://cline.bot/) - Open-source VS Code coding agent with plan-and-act mode, MCP support, and compatibility with every major model provider.
+- [JetBrains Junie](https://www.jetbrains.com/junie/) - JetBrains' native AI coding agent integrated directly into JetBrains IDEs for autonomous coding tasks.
 
 ## 🔍 Code Review & Quality
 

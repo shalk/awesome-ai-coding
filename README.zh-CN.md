@@ -32,20 +32,20 @@
 ### 按 AI 提供商
 - **GitHub/OpenAI**: GitHub Copilot, OpenAI Codex, GPT Engineer, AutoGPT
 - **Anthropic/Claude**: Claude Code
-- **多模型支持**（可配置）: Continue, Cursor, Codeium, Windsurf
+- **多模型支持**（可配置）: Continue, Cursor, Codeium, Cline
 - **开源模型**: Code Llama, StarCoder, DeepSeek Coder
 - **专有模型**: Devin AI, Cursor, 大多数商业服务
 
 ### 按界面类型
-- **完整 IDE**: Cursor, Windsurf
+- **完整 IDE**: Cursor, Zed, Devin Desktop
 - **IDE 扩展**: Continue, CodeGPT, Codeium（参见[编辑器集成](#编辑器集成)）
 - **CLI 工具**: Claude Code, Aider, Plandex, GitHub Copilot CLI
 - **Web 服务**: 大多数审查、测试和应用构建工具
-- **自托管**: FauxPilot, TabbyML, OpenDevin
+- **自托管**: FauxPilot, TabbyML, OpenHands
 
 ### 按部署模式
 - **云端**: 大多数商业工具（GitHub Copilot, Cursor 等）
-- **自托管**: FauxPilot, TabbyML, OpenDevin
+- **自托管**: FauxPilot, TabbyML, OpenHands
 - **混合**（本地+云端）: Tabnine, Codeium
 - **纯本地**: 某些支持本地模型的自托管选项
 
@@ -53,18 +53,22 @@
 
 功能完整的 AI 驱动开发环境和智能代码助手。
 
-- [GitHub Copilot](https://github.com/features/copilot) - 实时建议代码和完整函数的 AI 结对编程工具。
+- [GitHub Copilot](https://github.com/features/copilot) - AI 编码助手，支持智能体模式、后台云端智能体、Copilot Spaces 和 MCP 注册表集成。
 - [Cursor](https://cursor.sh/) - 基于 VSCode 构建的 AI 优先代码编辑器，具有原生聊天和编辑功能。
-- [Windsurf](https://codeium.com/windsurf) - Codeium 推出的智能体 IDE，支持多文件编辑工作流。
-- [Claude Code](https://claude.ai/code) - Anthropic 官方 CLI 工具，由 Claude 驱动，用于自主编码任务。
+- [Devin Desktop](https://devin.ai/desktop) - Cognition 推出的智能体 IDE（前身为 Windsurf），支持多智能体编排和内置看板任务管理。
+- [Claude Code](https://claude.ai/code) - Anthropic 官方 CLI 智能体，支持并行子智能体、定时例程、计算机使用，以及 VS Code 和 JetBrains IDE 集成。
 - [Sourcegraph Amp](https://sourcegraph.com/amp) - Sourcegraph 推出的 AI 编码助手，具有代码库上下文感知能力。
 - [Continue](https://continue.dev/) - VS Code 和 JetBrains 的开源自动驾驶工具，支持可自定义的 LLM。
 - [Pieces for Developers](https://pieces.app/) - AI 驱动的代码片段管理器，具有上下文感知建议。
-- [OpenAI Codex](https://openai.com/index/openai-codex/) - 驱动 GitHub Copilot，将自然语言转换为代码。
+- [OpenAI Codex](https://openai.com/codex) - 基于云端的软件工程智能体，已集成至 GitHub Copilot 及各主流 AI 原生编辑器。
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google 开源的终端 AI 编码智能体，由 Gemini 模型驱动，支持文件系统访问和 MCP。
 - [Antigravity](https://antigravity.google/) - Google 的 AI 驱动编码助手，用于开发环境。
 - [Kiro](https://kiro.dev/) - AWS 推出的智能体 AI IDE，由 Claude 驱动，通过规格驱动开发将需求自动转换为代码。
 - [Kiro CLI](https://kiro.dev/cli/) - AWS 推出的终端 AI 编码智能体，支持对话式编码、智能钩子、自定义智能体和 MCP 集成。
+- [Zed](https://zed.dev/) - 用 Rust 编写的高性能多人协作代码编辑器，内置 AI、原生智能体支持（ACP 协议）和集成调试器。
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS AI 编码助手，提供实时代码建议、智能体任务处理和安全扫描，支持 VS Code、JetBrains 和 CLI。
+- [Google Gemini Code Assist](https://codeassist.google/) - Google 推出的企业级 AI 编码助手，由 Gemini 模型驱动，支持 VS Code 和 JetBrains。
+- [Augment Code](https://www.augmentcode.com/) - 企业级智能体软件开发平台，具有组织级上下文引擎、模型路由和用于 PR 编写、代码审查与安全的内置智能体。
 
 ## ⚡ 代码补全工具
 
@@ -82,9 +86,9 @@
 
 能够独立编写、调试和部署代码的自主 AI 智能体。
 
-- [Devin AI](https://devin.ai/) - 首个能够自主开发的 AI 软件工程师。
+- [Devin AI](https://devin.ai/) - 自主 AI 软件工程师，支持端到端开发，可与 GitHub、AWS、Azure、Slack 和 Linear 集成。
 - [Devon](https://github.com/entropy-research/Devon) - 开源的结对编程智能体。
-- [OpenDevin](https://github.com/OpenDevin/OpenDevin) - AI 软件开发者的开放平台。
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 开源 AI 智能体平台，支持对整个代码库进行自主软件开发。
 - [Aider](https://aider.chat/) - 在本地 git 仓库中编辑代码的 AI 结对程序员。
 - [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 从自然语言提示构建完整代码库。
 - [Smol Developer](https://github.com/smol-ai/developer) - 个人初级开发者 AI 智能体。
@@ -92,6 +96,8 @@
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - 用于开发任务的自主 GPT-4 智能体.
 - [Plandex](https://plandex.ai/) - 基于终端的 AI 编码智能体，用于复杂任务。
 - [Air](https://air.dev/) - 支持多任务开发工作流的 AI 智能体平台，提供人机协作控制。
+- [Cline](https://cline.bot/) - 开源的 VS Code 编码智能体，具有计划-执行模式、MCP 支持，兼容所有主流模型提供商。
+- [JetBrains Junie](https://www.jetbrains.com/junie/) - JetBrains 原生 AI 编码智能体，直接集成于 JetBrains IDE，支持自主编码任务。
 
 ## 🔍 代码审查与质量
 
