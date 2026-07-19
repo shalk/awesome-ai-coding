@@ -179,6 +179,7 @@ AI 驱动的设计转代码和 UI 生成工具。
 - [Fig](https://fig.io/) - 终端自动补全和 AI 助手（现为 AWS 的一部分）。
 - [RTK](https://github.com/rtk-ai/rtk) - 命令行代理，将开发工具输出压缩后再传给 LLM，可减少 60-90% 的 token 消耗。
 - [CodexBar](https://github.com/steipete/CodexBar) - macOS 菜单栏应用，实时监控 15+ AI 编程助手的 token 用量与速率限制。
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - 本地 TUI，用于检查 AI 编码智能体会话的成本、token、延迟和工具失败。
 
 ## 📚 文档工具
 
