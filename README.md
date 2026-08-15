@@ -141,6 +141,7 @@ Large language models specifically trained for code generation and understanding
 - [CodeGen](https://github.com/salesforce/CodeGen) - Salesforce's family of code generation models.
 - [Replit Code V1.5](https://huggingface.co/replit/replit-code-v1_5-3b) - Replit's code completion model.
 - [DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - Open-source code model trained on 2T tokens.
+- [FIM-Midtraining](https://github.com/TIGER-AI-Lab/FIM-Midtraining) - Open code-model mid-training project with function-aware fill-in-the-middle data, six released checkpoints, and SWE-Bench evaluation.
 
 ## 🏗️ App Builders & Generators
 
