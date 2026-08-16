@@ -117,6 +117,7 @@ Tools for intelligent code search, understanding, and navigation across codebase
 
 AI-powered testing, test generation, and quality assurance tools.
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web/mobile tests, persistent test memory, and self-healing flows.
 - [Meticulous](https://meticulous.ai/) - Automated frontend testing without writing tests.
 - [TestRigor](https://testrigor.com/) - Plain English test automation using AI.
 - [Applitools](https://applitools.com/) - Visual testing and monitoring with AI.

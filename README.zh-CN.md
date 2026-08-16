@@ -117,6 +117,7 @@
 
 AI 驱动的测试、测试生成和质量保证工具。
 
+- [Agent QA](https://github.com/vostride/agent-qa) - 面向自然语言 Web/移动端测试的自改进 QA Agent，具备持久测试记忆和自愈流程。
 - [Meticulous](https://meticulous.ai/) - 无需编写测试的自动化前端测试。
 - [TestRigor](https://testrigor.com/) - 使用 AI 的纯英文测试自动化。
 - [Applitools](https://applitools.com/) - 使用 AI 的可视化测试和监控。
