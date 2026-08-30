@@ -105,6 +105,7 @@ Automated code review, quality analysis, and refactoring tools.
 
 - [CodeRabbit](https://coderabbit.ai/) - AI-powered code review bot with contextual feedback.
 - [Qodo (formerly Codium)](https://www.qodo.ai/) - Automated code review and test generation.
+- [Kodus](https://kodus.io/) - Open-source AI code review tool that reviews pull requests with repository context, custom rules, and BYOK support.
 - [Sourcery](https://sourcery.ai/) - AI-powered code review and refactoring for Python.
 - [CodeReviewBot](https://github.com/anc95/ChatGPT-CodeReview) - Automated code review using GPT-4.
 - [Sweep](https://sweep.dev/) - AI junior developer for pull requests and bug fixes.
