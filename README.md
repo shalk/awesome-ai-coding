@@ -84,6 +84,7 @@ Real-time AI-powered code completion and suggestion engines.
 
 ## 🦾 Coding Agents
 
+- **[ContextStream](https://contextstream.io)** - Shared project context for Cursor, Claude Code, Codex, Grok. MCP: https://mcp.contextstream.io/mcp. Intelligence isn’t the bottleneck. Context is.
 Autonomous AI agents that can write, debug, and deploy code independently.
 
 - [Devin AI](https://devin.ai/) - Autonomous AI software engineer capable of end-to-end development, integrating with GitHub, AWS, Azure, Slack, and Linear.
