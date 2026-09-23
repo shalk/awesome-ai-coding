@@ -192,6 +192,7 @@ Automated documentation generation and maintenance using AI.
 - [Swimm](https://swimm.io/) - AI-powered documentation platform for code.
 
 ## ☁️ DevOps & Infrastructure
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 AI tools for deployment automation, infrastructure management, and DevOps.
 
