@@ -129,6 +129,7 @@ AI 驱动的测试、测试生成和质量保证工具。
 - [Functionize](https://www.functionize.com/) - AI 驱动的测试自动化平台。
 - [Testim](https://www.testim.io/) - 基于 AI 的测试自动化，具有自我修复测试功能。
 - [Diffblue Cover](https://www.diffblue.com/) - 为 Java 提供的 AI 驱动单元测试生成。
+- [devin-qa-pack](https://github.com/Icaro0310/devin-qa-pack) - 离线审计工具，将代理的交付声明（测试、提交、推送）与其记录的工具调用进行核对。
 
 ## 🧠 AI 代码模型
 

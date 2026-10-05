@@ -129,6 +129,7 @@ AI-powered testing, test generation, and quality assurance tools.
 - [Functionize](https://www.functionize.com/) - AI-powered test automation platform.
 - [Testim](https://www.testim.io/) - AI-based test automation with self-healing tests.
 - [Diffblue Cover](https://www.diffblue.com/) - AI-powered unit test generation for Java.
+- [devin-qa-pack](https://github.com/Icaro0310/devin-qa-pack) - Offline audit that verifies an agent's delivery claims (tests run, commits, pushes) against its recorded tool calls.
 
 ## 🧠 AI Code Models
 
