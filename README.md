@@ -128,6 +128,7 @@ AI-powered testing, test generation, and quality assurance tools.
 - [Applitools](https://applitools.com/) - Visual testing and monitoring with AI.
 - [Functionize](https://www.functionize.com/) - AI-powered test automation platform.
 - [Testim](https://www.testim.io/) - AI-based test automation with self-healing tests.
+- [Endtest](https://endtest.io/) - Agentic AI-powered test automation for web and mobile apps with autonomous test generation, natural-language testing, and self-healing locators.
 - [Diffblue Cover](https://www.diffblue.com/) - AI-powered unit test generation for Java.
 
 ## 🧠 AI Code Models
