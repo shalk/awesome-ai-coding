@@ -129,6 +129,7 @@ AI-powered testing, test generation, and quality assurance tools.
 - [Functionize](https://www.functionize.com/) - AI-powered test automation platform.
 - [Testim](https://www.testim.io/) - AI-based test automation with self-healing tests.
 - [Diffblue Cover](https://www.diffblue.com/) - AI-powered unit test generation for Java.
+- [VibeRaven](https://github.com/ohad6k/VibeRaven) - Helps coding agents check Supabase migration files and replay bounded PostgreSQL race tests.
 
 ## 🧠 AI Code Models
 
